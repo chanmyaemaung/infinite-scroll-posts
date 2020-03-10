@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<link rel="stylesheet" href="./css/app.css" />
+		<title>Infinite Scroll and Filter</title>
+	</head>
+	<body>
+		<h1>Infinite Scroll and Filter</h1>
+		<div class="chan-filter-container">
+			<input
+				type="text"
+				id="chanFilter"
+				class="chan-filter"
+				placeholder="Search your contents..."
+			/>
+		</div>
+
+		<div id="chanPost-container"></div>
+
+		<!-- CSS Loader -->
+		<div class="chanLoader">
+			<div class="circle"></div>
+			<div class="circle"></div>
+			<div class="circle"></div>
+		</div>
+
+		<script src="./js/app.js"></script>
+	</body>
+</html>
