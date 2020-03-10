@@ -1,4 +1,4 @@
-# Form Validator
+# Infinite Scroll Blog Posts
 
 This little project made with by **Vanilla Javascript**.
 
@@ -10,6 +10,6 @@ Inside of my repository, I have created and used it the two folder which is **js
 > As a matter of fact, this little project is in order to use in my some others project such as travel blogging which is one of my quite a bit project so far.
 
 # Demo Screenshot
-![Demo: What I did so! ](https://i.imgur.com/pTrcOof.jpg)
+![Demo: What I did so! ](https://i.imgur.com/8PtNOqo.jpg)
 
 - I will try to live on my server if I have much time.
